@@ -1,0 +1,1 @@
+C:/Users/Vaios/AppData/Local/Programs/Python/Python310/python.exe "getter.py"
